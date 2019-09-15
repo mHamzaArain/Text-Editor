@@ -1,3 +1,1 @@
-# Text-Editor
-# Simple text editor using C#
-![]( Text-Editor/image/Text%20Edtor.PNG )
+![](Text-Editor/image/Text Edtor.PNG)
