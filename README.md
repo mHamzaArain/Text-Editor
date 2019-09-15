@@ -1,1 +1,1 @@
-![](Text-Editor/image/Text Edtor.PNG)
+![](Text-Editor/image/Text%20Editor.PNG)
